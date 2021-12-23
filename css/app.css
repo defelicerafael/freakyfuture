@@ -1,0 +1,158 @@
+
+* {
+    box-sizing: border-box;
+    margin:0; 
+    padding:0
+}
+/* COLORES */
+:root{
+    --primario: #F83F21;
+    --secundario: #FFF344;
+    --celeste: #3DFBD3;
+    --rojo: #fa3838;
+    --blanco: white;
+    --verde: #1e8a3a;
+}
+/* FUENTES */
+@font-face {
+    font-family: chicago;
+    src: url(fonts/ChicagoFLF.ttf);
+    font-display: swap;
+}
+@font-face {
+    font-family: silom;
+    src: url(fonts/SilomBol.ttf);
+    font-display: swap;
+}
+/* FONT FAMILYS*/
+
+.chicago{
+    font-family: chicago;
+}
+.silom{
+    font-family: silom;
+}
+
+/* TAMAÑOS FUENTES */
+.mediana{
+    font-size: 2em;
+}
+/* ANCHOS */
+.w-20{
+    width: 20%;
+    height: auto;
+}
+.w-30{
+    width: 30%;
+    height: auto;
+}
+
+/* FONDOS*/
+.bg-black{
+    background-color: black;
+}
+.bg-secundario{
+    background-color: var(--secundario);
+}
+/* RADIUS */
+.rounded-5{
+    border-radius: 2em;
+}
+
+/*COLORES*/
+.primario{
+    color:var(--primario);
+}
+.secundario{
+    color: var(--secundario);
+}
+.rojo{
+    color: var(--rojo);
+}
+.celeste{
+    color: var(--celeste);
+}
+.blanco{
+    color: var(--blanco);
+}
+/* TEXT SHADOW */
+.cuatro{
+    text-shadow: 5px 5px var(--celeste);
+    font-size: 8.5em;
+    color: var(--rojo);
+}
+.sombra-negra{
+    text-shadow: 3px 3px black;
+}
+
+/* HTML y GENERALES */
+html {
+  scroll-behavior: smooth;
+}
+body,html{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--primario);
+}
+img {
+    aspect-ratio: attr(width) / attr(height);
+  }
+/* HEADER */
+.iconos-arriba {
+    /*DISCORD TWITTER*/
+    position: absolute;
+    top: 8%;
+    right:5%;
+}
+.w80px{
+    width: 80px;
+    height: auto;
+}
+.banner{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+}
+.banner h4{
+    font-size: 1.7em;
+    animation: banner 30s linear infinite alternate;    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+
+@keyframes banner {
+    0%{
+        transform: translateX(-100);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+/* MARGENES NEGATIVOS */
+.mt-n1 {
+    margin-top: -1.2rem !important;
+}
+/* Z-INDEX*/
+.z1{
+    z-index: 5;
+}
+.z0{
+    z-index: 0;
+}
+
+/* MEDIA QUERY */
+@media (max-width: 767.98px) {
+    .cuatro{
+        text-shadow: 2px 2px var(--celeste);
+        font-size: 4.5em;
+        color: var(--rojo);
+    }
+    .w-30{
+        width: 80%;
+        height: auto;
+    }
+}
