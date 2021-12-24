@@ -2,7 +2,6 @@
 ini_set('error_reporting', E_ALL);
 error_reporting(-1);
 header("Content-Type: text/html;charset=utf-8");
-include_once 'server/link.php';
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -25,7 +24,7 @@ include_once 'server/link.php';
         <meta property="og:type"          content="website" />
         <meta property="og:title"         content="Freaky Future" />
         <meta property="og:description"   content="A DYSTOPIC INMERSIVE EXPERIENCE" />
-        <meta property="og:image"         content="<?php echo $link;?>img/seo.jpg" />
+        <meta property="og:image"         content="img/footer/logosolo.png" />
     </head>
     <body>
           <div>
