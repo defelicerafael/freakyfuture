@@ -1,7 +1,7 @@
-<div class="container-fluid g-0 pt-5">
+<div class="container-fluid g-0 pt-5 qr-h">
   <div class="row g-0 justify-content-center z1 position-relative">
       <div class="col-md-3 col-9 text-center py-2">
-        <div class="silom celeste bg-black rounded-pill mediana">A COLLECTION OF</div>
+        <div class="silom celeste bg-black rounded-6 mediana">A COLLECTION OF</div>
       </div>
   </div>
   <div class="row g-0 justify-content-center mt-n1 z0 position-relative p-md-0 px-2">
@@ -18,12 +18,12 @@
   </div>
   <div class="row g-0 justify-content-center z1 position-relative">
       <div class="col-md-8 col-11 text-center py-3">
-        <div class="bg-black rounded-pill display-6 chicago py-1"><span class="secundario">launched on </span><span class="celeste">Inmutable X</span></div>
+        <div class="bg-black rounded-6 display-6 chicago py-1"><span class="secundario">launched on </span><span class="celeste">Inmutable X</span></div>
       </div>
   </div>
   <div class="row g-0 justify-content-center">
     <div class="col-md-10 silom text-center py-2">
-      <div class="blanco h3 silom">
+      <div class="blanco h3 silom px-1">
         A LAYER FOR 2 NFTS ON THE ETHERIUM BLOCKCHAIN
       </div>
       <div class="bg-black w-30 mx-auto secundario h2">

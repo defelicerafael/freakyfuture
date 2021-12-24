@@ -1,5 +1,5 @@
 <div class="container-fluid g-0">
-  <div class="position-relative">
+  <div class="position-relative ">
     <img src="img/header/header.png" class="img-fluid">
     <div class="row g-0 iconos-arriba">
       <div class="col px-1">

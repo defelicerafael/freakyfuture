@@ -18,10 +18,10 @@
     max-height: 100%;
     /* dim unselected */
     opacity: 0.7;
-    -webkit-transform: scale(0.85);
-            transform: scale(0.85);
-    -webkit-filter: blur(1px);
-            filter: blur(1px);
+    -webkit-transform: scale(0.80);
+            transform: scale(0.80);
+    -webkit-filter: blur(0.5px);
+            filter: blur(0.5px);
     -webkit-transition: opacity 0.3s, -webkit-transform 0.3s, transform 0.3s, -webkit-filter 0.3s, filter 0.3s;
             transition: opacity 0.3s, transform 0.3s, filter 0.3s;
 }

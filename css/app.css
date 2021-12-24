@@ -12,6 +12,7 @@
     --rojo: #fa3838;
     --blanco: white;
     --verde: #1e8a3a;
+    --amarillo: #ffe900;
 }
 /* FUENTES */
 @font-face {
@@ -37,7 +38,17 @@
 .mediana{
     font-size: 2em;
 }
+.mediana-1{
+    font-size: 2.5em;
+}
 /* ANCHOS */
+.w-70{
+    width: 80%;
+    height: auto; 
+}
+.w-65{
+    width: 65%;
+}
 .w-20{
     width: 20%;
     height: auto;
@@ -45,6 +56,24 @@
 .w-30{
     width: 30%;
     height: auto;
+}
+.w-60{
+    width: 60%;
+    height: auto; 
+}
+.w-50{
+    width: 50%;
+    height: auto; 
+}
+.w-55{
+    width: 55%;
+    height: auto; 
+}
+.plus{
+    width: 6em;
+    height: auto; 
+    transform: rotate(-10deg);
+    font-style: italic;
 }
 
 /* FONDOS*/
@@ -54,11 +83,28 @@
 .bg-secundario{
     background-color: var(--secundario);
 }
+.qr{
+    background: url('../img/bg/qr-naranja.jpg');
+}
+.qr-v{
+    background: url('../img/bg/qr-violeta.jpg');
+}
+.qr-h{
+    background: url('../img/bg/qr-h.jpg');
+    background-size: 100% 64%;
+    background-repeat: no-repeat;
+
+}
 /* RADIUS */
 .rounded-5{
     border-radius: 2em;
 }
-
+.rounded-6{
+    border-radius: 0.5em;
+}
+.border-secundario{
+    border: 2px solid var(--secundario);
+}
 /*COLORES*/
 .primario{
     color:var(--primario);
@@ -74,6 +120,12 @@
 }
 .blanco{
     color: var(--blanco);
+}
+.amarillo{
+    color:var(--amarillo);
+}
+.negro{
+    color: black;
 }
 /* TEXT SHADOW */
 .cuatro{
@@ -136,6 +188,12 @@ img {
 .mt-n1 {
     margin-top: -1.2rem !important;
 }
+.mt-n2 {
+    margin-top: -2.1rem !important;
+}
+.mt-n3 {
+    margin-top: -3rem !important;
+}
 /* Z-INDEX*/
 .z1{
     z-index: 5;
@@ -154,5 +212,37 @@ img {
     .w-30{
         width: 80%;
         height: auto;
+    }
+    .w-60{
+        width: 90%;
+        height: auto; 
+    }
+    .w-50{
+        width: 90%;
+        height: auto;
+    }
+    .w-55{
+        width: 90%;
+        height: auto; 
+    }
+    .w-70{
+        width: 90%;
+        height: auto; 
+    }
+    .w-65{
+        width: 90%;
+        height: auto; 
+    }
+    .display-4{
+        font-size: 1.7em;
+    }
+    .display-5{
+        font-size: 1.5em;
+    }
+    .display-6{
+        font-size: 1.5em;  
+    }
+    .mediana-1{
+        font-size: 1.4em;
     }
 }

@@ -36,6 +36,9 @@ include_once 'server/link.php';
                 <?php include_once "templates/collection.php";?>
                 <?php include_once "templates/carousel.php";?>
                 <?php include_once "templates/mint.php";?>
+                <?php include_once "templates/text.php";?>
+                <?php include_once "templates/purcharse.php";?>
+                <?php include_once "templates/long-term.php";?>
               </section>
               <footer>
                 <?php include_once "templates/footer.php";?>    
