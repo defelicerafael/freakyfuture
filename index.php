@@ -39,6 +39,8 @@ include_once 'server/link.php';
                 <?php include_once "templates/text.php";?>
                 <?php include_once "templates/purcharse.php";?>
                 <?php include_once "templates/long-term.php";?>
+                <?php include_once "templates/our-goals.php";?>
+                <?php include_once "templates/the-team.php";?>
               </section>
               <footer>
                 <?php include_once "templates/footer.php";?>    

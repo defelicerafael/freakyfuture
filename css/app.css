@@ -13,6 +13,7 @@
     --blanco: white;
     --verde: #1e8a3a;
     --amarillo: #ffe900;
+    --violeta: #0b202d;
 }
 /* FUENTES */
 @font-face {
@@ -41,6 +42,13 @@
 .mediana-1{
     font-size: 2.5em;
 }
+.grande{
+    font-size: 5em;
+}
+.grande-1{
+    font-size: 4vw;
+}
+
 /* ANCHOS */
 .w-70{
     width: 80%;
@@ -95,6 +103,9 @@
     background-repeat: no-repeat;
 
 }
+.qr-n{
+    background: url('../img/footer/qr-n.png');
+}
 /* RADIUS */
 .rounded-5{
     border-radius: 2em;
@@ -127,6 +138,9 @@
 .negro{
     color: black;
 }
+.violeta{
+    color: var(--violeta);
+}
 /* TEXT SHADOW */
 .cuatro{
     text-shadow: 5px 5px var(--celeste);
@@ -136,7 +150,13 @@
 .sombra-negra{
     text-shadow: 3px 3px black;
 }
-
+.sombra-primaria{
+    text-shadow: 3px 3px var(--primario);
+}
+/* ROTATE */
+.rotacion{
+    transform: rotate(-10deg);
+}
 /* HTML y GENERALES */
 html {
   scroll-behavior: smooth;
@@ -201,6 +221,7 @@ img {
 .z0{
     z-index: 0;
 }
+
 
 /* MEDIA QUERY */
 @media (max-width: 767.98px) {
