@@ -1,6 +1,6 @@
 .carousel-cell {
-    width: 50%;
-    height: 200px;
+    width: 70%;
+    height: 380px;
     /* flex-box, center image in cell */
     display: -webkit-box;
     display: -webkit-flex;

@@ -17,7 +17,7 @@
         </div>   
     </div>
     <div class="col-md-11 col-12 py-4">
-        <div class="blanco chicago text-center h2 lh-base px-3">
+        <div class="blanco chicago text-center h2 lh-base px-md-3 px-1">
             As we said, the aim of our project is to create <span class="negro">avatars</span>
             to use in the metaverse. We belive the Metaverse
             will become mainstream in the near future,
@@ -25,7 +25,7 @@
             3d model to use in most popular metaverses. 
         </div>
         
-        <div class="blanco chicago text-center h2 lh-base py-4 px-3">
+        <div class="blanco chicago text-center h2 lh-base py-4 px-md-3 px-1">
             Meanwhile, until the metaverse takes full control of our social<br/>
             life, you can use our <span class="secundario">staking platform</span> to earn <span class="negro">$FREAK!</span><br/>
             Our governance token will allow owners to take

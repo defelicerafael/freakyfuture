@@ -13,7 +13,7 @@ $nft = array(
 );
 ?>
 
-<div class="container-fluid g-0 py-5">
+<div class="container-fluid g-0 pt-md-5 pt-2 pb-md-4 pb-5">
     <div class="main-carousel" data-flickity='{ "wrapAround": true, "autoPlay": 4000, "imagesLoaded": true, "initialIndex": 1, "prevNextButtons": false}'>
         <?php
         foreach($nft as $n){

@@ -99,10 +99,10 @@
     background: url('../img/bg/qr-naranja.jpg');
 }
 .qr-v{
-    background: url('../img/home/fl.png'), url('../img/bg/qr-violeta.jpg');
-    background-position: top center, left top;
-    background-repeat: no-repeat, repeat;
-    background-size: contain, contain;
+    background: url('../img/bg/qr-violeta.jpg');
+    background-position: left top;
+    background-repeat:repeat;
+    background-size: contain;
 
 }
 .qr-h{
@@ -285,6 +285,9 @@ img {
     }
     .mediana-1{
         font-size: 1.4em;
+    }
+    .grande{
+        font-size: 3.5rem;
     }
     .grande-1{
         font-size: 6vw;

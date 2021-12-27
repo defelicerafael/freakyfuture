@@ -1,9 +1,9 @@
 <div class="container-fluid g-0 pt-md-3 pt-2">
     <h1 class="chicago grande text-center secundario">THE TEAM</h1>
-    <div class="row g-0 justify-content-center px-md-5 pt-md-5">    
+    <div class="row g-0 justify-content-center px-md-5 pt-md-5 px-md-0 px-3">    
         <div class="col-md-4 col-12 mt-md-0 mt-3">
             <a href="https://twitter.com/pablogualicho" alt="Pablo Gualicho" title="Pablo Gualicho" target="_blank">
-                <img src="img/team/gualicho.png" class="img-fluid px-1">
+                <img src="img/team/gualicho.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 Gualicho
@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-4 col-12 mt-md-0 mt-5">
             <a href="https://twitter.com/0xtotoro" alt="0xtotoro" title="0xtotoro" target="_blank">
-                <img src="img/team/gaspo.png" class="img-fluid px-1">
+                <img src="img/team/gaspo.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 OxTotoro
@@ -25,7 +25,7 @@
         </div>
         <div class="col-md-4 col-12 mt-md-0 mt-5">
             <a href="https://twitter.com/trippypage" alt="trippypage" title="trippypage" target="_blank">
-                <img src="img/team/tomass.png" class="img-fluid px-1">
+                <img src="img/team/tomass.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 trippypage
