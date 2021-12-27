@@ -118,8 +118,6 @@
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100% 100%;
-    
-
 }
 
 /* RADIUS */
@@ -277,7 +275,7 @@ img {
         height: auto; 
     }
     .display-4{
-        font-size: 1.7em;
+        font-size: 1.9em;
     }
     .display-5{
         font-size: 1.5em;
@@ -302,5 +300,11 @@ img {
         position: absolute;
         top: 77%;
         right:3%;
+    }
+    .bg-flecha{
+        background: url('../img/bg/fondo-con-flecha-mobile.jpg');
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: 100% 100%;
     }
 }
