@@ -88,6 +88,9 @@
 .bg-black{
     background-color: black;
 }
+.bg-primario{
+    background-color: var(--primario);
+}
 .bg-secundario{
     background-color: var(--secundario);
 }
@@ -95,17 +98,28 @@
     background: url('../img/bg/qr-naranja.jpg');
 }
 .qr-v{
-    background: url('../img/bg/qr-violeta.jpg');
+    background: url('../img/home/fl.png'), url('../img/bg/qr-violeta.jpg');
+    background-position: top center, left top;
+    background-repeat: no-repeat, repeat;
+    background-size: contain, contain;
+
 }
 .qr-h{
     background: url('../img/bg/qr-h.jpg');
     background-size: 100% 64%;
     background-repeat: no-repeat;
-
 }
 .qr-n{
     background: url('../img/footer/qr-n.png');
 }
+.bg-flecha{
+    background: url('../img/home/fl.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+
+}
+
 /* RADIUS */
 .rounded-5{
     border-radius: 2em;

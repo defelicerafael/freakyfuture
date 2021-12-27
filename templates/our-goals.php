@@ -1,12 +1,18 @@
 <div class="container-fluid g-0 pt-md-3 pt-2">
-    <div class="row g-0 justify-content-center p-md-0 px-2">
+    <!--<div class="row g-0 justify-content-center p-md-0 px-2">
         <div class="col-md-3 col-6 p-md-0">
             <div class="text-center mx-auto pt-5 pb-5">
                 <div class="display-4 silom h3 bg-black secundario sombra-primaria rotacion">OUR GOALS</div>
             </div>
         </div>
-    </div>        
-    <div class="row g-0 justify-content-center px-md-0 px-2 qr-v mt-1 mt-md-4">    
+    </div> -->       
+    <div class="row g-0 justify-content-center px-md-0 px-2 qr-v mt-1 mt-md-4 pb-md-5 pb-3">    
+        <div class="col-md-3 col-6 p-md-0">
+            <div class="text-center mx-auto pt-md-0 pb-md-3">
+                <div class="display-4 silom h3 bg-black secundario sombra-primaria rotacion">OUR GOALS</div>
+            </div>
+        </div>
+        <div class="w-100"></div>
         <div class="col-md-4 col-10 p-md-0 p-1">    
             <div class="text-center pb-1 pt-5 mx-auto">
                 <div class="chicago bg-secundario rounded-6 h3 py-3 negro">Launch the 2D collection.</div>
