@@ -176,6 +176,12 @@ img {
     top: 8%;
     right:5%;
 }
+.iconos-volumen {
+    /*DISCORD TWITTER*/
+    position: absolute;
+    top: 6%;
+    right:22%;
+}
 .w80px{
     width: 80px;
     height: auto;
@@ -265,5 +271,20 @@ img {
     }
     .mediana-1{
         font-size: 1.4em;
+    }
+    .grande-1{
+        font-size: 6vw;
+    }
+    .iconos-arriba {
+        /*DISCORD TWITTER*/
+        position: absolute;
+        top: 80%;
+        right:55%;
+    }
+    .iconos-volumen {
+        /*DISCORD TWITTER*/
+        position: absolute;
+        top: 77%;
+        right:3%;
     }
 }

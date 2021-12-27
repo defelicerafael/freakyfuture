@@ -50,5 +50,6 @@ header("Content-Type: text/html;charset=utf-8");
         <!-- Option 1: Bootstrap Bundle with Popper -->
         <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="lib/flickity/js/flickity.pkgd.min.js"></script>
+        <script src="js/audio.js"></script>
     </body>
 </html>
