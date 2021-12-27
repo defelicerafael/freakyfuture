@@ -57,7 +57,7 @@
             </a>
         </div>
     </div>
-    <div class="text-white mediana-1 text-center chicago lh-1 py-md-3">
+    <div class="text-white mediana-1 text-center chicago lh-1 py-md-3 px-md-0 px-1">
             Go deep and discover more<br/>information about the project
     </div>
 </div>

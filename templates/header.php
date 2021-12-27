@@ -1,6 +1,6 @@
 <div class="container-fluid g-0">
   <div class="position-relative ">
-    <img src="img/header/header.png" class="img-fluid d-none d-sm-block">
+    <img src="img/header/header.jpg" class="img-fluid d-none d-sm-block">
     <img src="img/header/header-cel.png" class="img-fluid d-block d-sm-none">
     <div class="iconos-volumen">
       <img id="img-audio" src="img/header/volumen-on.png" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
