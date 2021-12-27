@@ -1,6 +1,6 @@
 <div class="container-fluid g-0 pt-md-5 pt-1">
   <div class="row g-0 justify-content-center z1 position-relative">
-      <div class="col-md-6 col-12 text-center pt-md-2 pb-md-4">
+      <div class="col-md-7 col-12 text-center pt-md-2 pb-md-4">
         <div class="chicago blanco h2 px-3">Freaky Future is a long term project,<br class="d-none d-sm-none d-md-block"/>we plan to do a lot of stuff:</div>
       </div>
   </div>
@@ -16,12 +16,12 @@
             <div class="bg-secundario rounded-6 h2 py-2 chicago py-1 primario px-2">An <span class="negro">animated</span> Freaky Future serie.</div>
         </div>   
     </div>
-    <div class="col-md-10 col-12 py-4">
+    <div class="col-md-11 col-12 py-4">
         <div class="blanco chicago text-center h2 lh-base px-3">
             As we said, the aim of our project is to create <span class="negro">avatars</span>
             to use in the metaverse. We belive the Metaverse
             will become mainstream in the near future,
-            that´s why we want to provide our comunity with a
+            that's why we want to provide our comunity with a
             3d model to use in most popular metaverses. 
         </div>
         
