@@ -6,7 +6,7 @@
             </div>
         </div>
     </div> -->       
-    <div class="row g-0 justify-content-center px-md-0 px-2 qr-v mt-1 mt-md-4 pb-md-5 pb-3">    
+    <div class="row g-0 justify-content-center px-md-0 px-2 bg-flecha mt-1 mt-md-4 pb-md-5 pb-3">    
         <div class="col-md-3 col-6 p-md-0">
             <div class="text-center mx-auto pt-md-0 pb-md-3">
                 <div class="display-4 silom h3 bg-black secundario sombra-primaria rotacion">OUR GOALS</div>

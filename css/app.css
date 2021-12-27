@@ -94,6 +94,7 @@
 .bg-secundario{
     background-color: var(--secundario);
 }
+
 .qr{
     background: url('../img/bg/qr-naranja.jpg');
 }
@@ -113,9 +114,10 @@
     background: url('../img/footer/qr-n.png');
 }
 .bg-flecha{
-    background: url('../img/home/fl.png');
+    background: url('../img/bg/fondo-con-flecha.jpg');
     background-repeat: no-repeat;
     background-position: top center;
+    background-size: 100% 100%;
     
 
 }
