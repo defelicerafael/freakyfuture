@@ -114,7 +114,7 @@
 }
 .qr-footer{
     background: url('../img/footer/fondo.png');
-    background-repeat: no-repeat;
+   
     background-position: top left;
     background-size:auto;
 }
