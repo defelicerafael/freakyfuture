@@ -1,4 +1,4 @@
-<div class="container-fluid g-0 pt-md-3 pt-2">
+<div class="container-fluid g-0 pt-md-5 pt-2">
     <h1 class="chicago grande text-center secundario">THE TEAM</h1>
     <div class="row g-0 justify-content-center px-md-5 pt-md-5 px-md-0 px-3">    
         <div class="col-md-4 col-12 mt-md-0 mt-3">

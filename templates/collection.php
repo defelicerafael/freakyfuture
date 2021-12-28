@@ -10,7 +10,7 @@
         <div class="col-md-5 col-12 text-center chicago">
           <h1 class="cuatro mt-md-0 mt-2">4004</h1>
         </div>
-        <div class="col-md-7 col-12 text-md-left text-center silom">
+        <div class="col-md-7 col-12 text-md-start text-center silom">
           <h3 class="display-4 rojo pt-md-4 pt-2 pb-md-0 pb-2 ps-md-0 ps-1 pe-md-0 pe-1">RANDOMLY GENERATED<br/>& UNIQUE LIFE FORMS</h3>
         </div>
       </div>

@@ -13,7 +13,8 @@
             <div class="bg-black rounded-6 display-6 silom py-1 secundario">FOR THE MINTING WALLET.</div>
         </div>
         <div class="text-center plus mx-auto pt-4 pb-5">
-            <div class="chicago h3 bg-secundario primario">Plus</div>
+            <img src="img/home/plus.png" title="" alt="" class="img-fluid">
+            <!--<div class="chicago h3 bg-secundario primario">Plus</div>-->
         </div>    
     </div>
     <div class="row g-0 justify-content-center  mt-n3 z1 position-relative">

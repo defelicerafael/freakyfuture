@@ -78,10 +78,9 @@
     height: auto; 
 }
 .plus{
-    width: 6em;
+    width: 7em;
     height: auto; 
-    transform: rotate(-10deg);
-    font-style: italic;
+    
 }
 
 /* FONDOS*/
