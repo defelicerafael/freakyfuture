@@ -112,6 +112,12 @@
 .qr-n{
     background: url('../img/footer/qr-n.png');
 }
+.qr-footer{
+    background: url('../img/footer/fondo.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size:auto;
+}
 .bg-flecha{
     background: url('../img/bg/fondo-con-flecha.jpg');
     background-repeat: no-repeat;
