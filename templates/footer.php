@@ -1,6 +1,6 @@
 <div class="container-fluid g-0 pt-md-5 pt-3">
     <div class="row g-0 justify-content-center align-items-center p-md-0 px-2 qr-n">
-        <div class="col-md-3 col-8 p-md-5 p-2">
+        <div class="col-md-3 col-8 p-md-2 p-2">
             <img src="img/footer/logosolo.png" alt="" title="" class="img-fluid mx-auto d-block">
         </div>
         <div class="col-md-8 col-12 p-md-0">
