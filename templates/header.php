@@ -1,5 +1,6 @@
 <div class="container-fluid g-0">
   <div class="position-relative ">
+    <!-- este es el header nuevo-->
     <img src="img/header/headernew.jpg" class="img-fluid d-none d-sm-block">
     <img src="img/header/header-cel.png" class="img-fluid d-block d-sm-none">
     <div class="iconos-volumen">

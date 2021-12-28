@@ -4,7 +4,7 @@
             <img src="img/footer/logosolo.png" alt="" title="" class="img-fluid mx-auto d-block">
         </div>
         <div class="col-md-8 col-12 p-md-0">
-            <div class="text-md-start text-center mx-auto pt-md-5 pb-md-5 pb-5">
+            <div class="text-md-start text-center mx-auto pt-md-2 pb-md-2 pb-5">
                 <h3 class="chicago amarillo">A DYSTOPIC INMERSIVE EXPERIENCE</h3>
                 <h4 class="chicago amarillo">
                     ©2021 All rights reserved. www.freakyfuture.wtf
