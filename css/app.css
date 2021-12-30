@@ -193,13 +193,13 @@ img {
     /*DISCORD TWITTER*/
     position: absolute;
     top: 8%;
-    right:5%;
+    right:43%;
 }
 .iconos-volumen {
     /*DISCORD TWITTER*/
     position: absolute;
     top: 6%;
-    right:22%;
+    right:57%;
 }
 .w80px{
     width: 80px;
@@ -246,7 +246,9 @@ img {
 .z0{
     z-index: 0;
 }
-
+.nohover:hover{
+    color:var(--violeta);
+}
 
 /* MEDIA QUERY */
 @media (max-width: 767.98px) {

@@ -6,7 +6,7 @@
                 <img src="img/team/gualicho.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
-                <a class="text-decoration-none violeta" href="https://twitter.com/pablogualicho" alt="Pablo Gualicho" title="Pablo Gualicho" target="_blank">Gualicho</a>
+                <a class="text-decoration-none violeta nohover" href="https://twitter.com/pablogualicho" alt="Pablo Gualicho" title="Pablo Gualicho" target="_blank">Gualicho</a>
             </h1>
             <h2 class="chicago text-center amarillo pt-ms-2">
                 The artist
@@ -17,7 +17,7 @@
                 <img src="img/team/gaspo.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
-                <a class="text-decoration-none violeta" href="https://twitter.com/0xtotoro" alt="0xtotoro" title="0xtotoro" target="_blank">OxTotoro</a>
+                <a class="text-decoration-none violeta nohover" href="https://twitter.com/0xtotoro" alt="0xtotoro" title="0xtotoro" target="_blank">OxTotoro</a>
             </h1>
             <h2 class="chicago text-center amarillo pt-ms-2">
                 The hacker
@@ -28,7 +28,7 @@
                 <img src="img/team/tomass.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
-                <a class="text-decoration-none violeta" href="https://twitter.com/trippypage" alt="trippypage" title="trippypage" target="_blank">trippypage</a>
+                <a class="text-decoration-none violeta nohover" href="https://twitter.com/trippypage" alt="trippypage" title="trippypage" target="_blank">trippypage</a>
             </h1>
             <h2 class="chicago text-center amarillo pt-ms-2">
                 The psycho-logist
