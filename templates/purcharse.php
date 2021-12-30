@@ -19,7 +19,7 @@
     </div>
     <div class="row g-0 justify-content-center  mt-n3 z1 position-relative">
         <div class="col-md-9 col-11 text-center py-3">
-            <div class="bg-black rounded-6 display-6 silom py-1"><span class="secundario">A</span><span class="celeste"> 3D AVATAR </span><span class="secundario">TO USE ON THE METAVERSE</span></div>
+            <div class="bg-black rounded-6 display-6 silom py-1"><span class="secundario">A</span><span class="celeste"> 3D AVATAR </span><span class="secundario">TO USE ON THE METAVERSE.</span></div>
         </div>
     </div>
 </div>

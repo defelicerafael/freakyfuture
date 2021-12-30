@@ -19,7 +19,7 @@
     <div class="col-md-11 col-12 py-4">
         <div class="blanco chicago text-center h2 lh-base px-md-3 px-1">
             As we said, the aim of our project is to create <span class="negro">avatars</span>
-            to use in the metaverse. We belive the Metaverse
+            to use in the metaverse. We believe the Metaverse
             will become mainstream in the near future,
             that's why we want to provide our comunity with a
             3d model to use in most popular metaverses. 

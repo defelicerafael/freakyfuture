@@ -22,7 +22,7 @@
         <div class="w-100"></div>
         <div class="col-md-8 col-10 p-md-0 p-1">    
             <div class="text-center pb-1 pt-3 mx-auto">
-                <div class="chicago bg-black rounded-6 h3 py-3 celeste px-2">Launch the $FREAK token and the staking platform</div>
+                <div class="chicago bg-black rounded-6 h3 py-3 celeste px-2">Launch the $FREAK token and the staking platform.</div>
             </div>
         </div>
         <div class="w-100"></div>
@@ -34,13 +34,13 @@
         <div class="w-100"></div>
         <div class="col-md-8 col-10 p-md-0 p-1">    
             <div class="text-center pb-1 pt-3 mx-auto">
-                <div class="chicago bg-black rounded-6 h3 py-3 celeste px-2">Collaborate with artists to create more 3D avatars</div>
+                <div class="chicago bg-black rounded-6 h3 py-3 celeste px-2">Collaborate with artists to create more 3D avatars.</div>
             </div>
         </div>
         <div class="w-100"></div>
         <div class="col-md-7 col-10 p-md-0 p-1">    
             <div class="text-center pb-1 pt-3 mx-auto">
-                <div class="chicago bg-secundario rounded-6 h3 py-3 negro px-2">Collaborate with virtual reality spaces to integrate the avatars to the blockchain as NFT</div>
+                <div class="chicago bg-secundario rounded-6 h3 py-3 negro px-2">Collaborate with virtual reality spaces to integrate the avatars to the blockchain as NFT.</div>
             </div>
         </div>
         <div class="w-100"></div>

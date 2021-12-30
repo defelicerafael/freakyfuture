@@ -1,10 +1,10 @@
 <div class="container-fluid g-0">
   <div class="position-relative ">
     <!-- este es el header nuevo-->
-    <img src="img/header/headernew.jpg" class="img-fluid d-none d-sm-block">
-    <img src="img/header/header-cel.png" class="img-fluid d-block d-sm-none">
+    <img src="img/header/headernew-1.jpg" class="img-fluid d-none d-sm-block w-100 mx-auto">
+    <img src="img/header/header-cel.jpg" class="img-fluid d-block d-sm-none">
     <div class="iconos-volumen">
-      <img id="img-audio" src="img/header/volumen-on.png" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
+      <img id="img-audio" src="img/header/play_music.png" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
     </div>
     <div class="row g-0 iconos-arriba">
       <div class="col px-1">

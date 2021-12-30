@@ -10,7 +10,7 @@
                 animals randomly merged together,
                 as a new form of life arise.<br/>
                 PLANET EARTH HAS NOW A SECOND
-                CHANCE TO EVOLVE
+                CHANCE TO EVOLVE.
             </div>
         </div>
     </div>

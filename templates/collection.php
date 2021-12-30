@@ -24,13 +24,13 @@
   <div class="row g-0 justify-content-center">
     <div class="col-md-10 silom text-center py-2">
       <div class="blanco h3 silom px-1">
-        A LAYER FOR 2 NFTS ON THE ETHERIUM BLOCKCHAIN
+        A LAYER 2 NFTS ON THE ETHERIUM BLOCKCHAIN
       </div>
       <div class="bg-black w-30 mx-auto secundario h2">
         WITH <span class="celeste">NO GAS</span> FEES
       </div>
       <div class="secundario display-6 px-md-0 px-1">
-        that means the security of ETH without<br class="d-none d-sm-none d-md-block"/>the expensive trading costs and also <span class="blanco">100% carbon neutral</span>
+        that means the security of ETH without<br class="d-none d-sm-none d-md-block"/> the expensive trading costs and also <span class="blanco">100% carbon neutral</span>
       </div>
     </div>
   </div>
