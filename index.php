@@ -11,6 +11,8 @@ header("Content-Type: text/html;charset=utf-8");
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css" media="all">
         <link rel="stylesheet" type="text/css" href="css/app.css" media="all">
