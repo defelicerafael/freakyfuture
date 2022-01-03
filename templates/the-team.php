@@ -47,12 +47,12 @@
     
     <div class="row g-0 justify-content-center py-md-3 py-3">
         <div class="col-md-1 col-3 px-1">
-            <a href="" alt="" title="">
+            <a href="https://twitter.com/freaky_future" alt="" title="">
                 <img src="img/header/discord.jpg" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
             </a>
         </div>
         <div class="col-md-1 col-3 px-1">
-            <a href="" alt="" title="">
+            <a href="https://discord.gg/vxJB9cs4J9" alt="" title="">
                 <img src="img/header/twitter.jpg" title="Freaky Future - Discord" alt="Freaky Future - Twitter" class="w80px"> 
             </a>
         </div>
