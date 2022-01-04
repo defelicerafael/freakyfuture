@@ -3,7 +3,7 @@
     <div class="row g-0 justify-content-center px-md-5 pt-md-5 px-md-0 px-3">    
         <div class="col-md-4 col-12 mt-md-0 mt-3">
             <a href="https://twitter.com/pablogualicho" alt="Pablo Gualicho" title="Pablo Gualicho" target="_blank">
-                <img src="img/team/gualicho.png" class="img-fluid p-1">
+                <img width="400" height="492" src="img/team/gualicho.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 <a class="text-decoration-none violeta nohover" href="https://twitter.com/pablogualicho" alt="Pablo Gualicho" title="Pablo Gualicho" target="_blank">Gualicho</a>
@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-4 col-12 mt-md-0 mt-5">
             <a href="https://twitter.com/0xtotoro" alt="0xtotoro" title="0xtotoro" target="_blank">
-                <img src="img/team/gaspo.png" class="img-fluid p-1">
+                <img width="400" height="492" src="img/team/gaspo.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 <a class="text-decoration-none violeta nohover" href="https://twitter.com/0xtotoro" alt="0xtotoro" title="0xtotoro" target="_blank">OxTotoro</a>
@@ -25,7 +25,7 @@
         </div>
         <div class="col-md-4 col-12 mt-md-0 mt-5">
             <a href="https://twitter.com/trippypage" alt="trippypage" title="trippypage" target="_blank">
-                <img src="img/team/tomass.png" class="img-fluid p-1">
+                <img width="400" height="492" src="img/team/tomass.png" class="img-fluid p-1">
             </a>
             <h1 class="chicago text-center violeta pt-ms-2">
                 <a class="text-decoration-none violeta nohover" href="https://twitter.com/trippypage" alt="trippypage" title="trippypage" target="_blank">trippypage</a>
@@ -36,7 +36,7 @@
         </div>
     </div>
     <div class="mt-md-5 mt-5">
-        <img src="img/home/manomarcando_1.gif" class="img-fluid w-100">
+        <img width="1920" height="598" src="img/home/manomarcando_1.gif" class="img-fluid w-100">
     </div>
     <div class="text-white grande-1 text-center chicago w-100 py-md-3 py-2 d-none d-sm-block">
             /////////// JOIN THE FREAKS ///////////
@@ -48,12 +48,12 @@
     <div class="row g-0 justify-content-center py-md-3 py-3">
         <div class="col-md-1 col-3 px-1">
             <a href="https://discord.gg/vxJB9cs4J9" alt="" title="" target="_blank">
-                <img src="img/header/discord.jpg" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
+                <img width="100" height="76" src="img/header/discord.jpg" title="Freaky Future - Discord" alt="Freaky Future - Discord" class="w80px"> 
             </a>
         </div>
         <div class="col-md-1 col-3 px-1">
             <a href="https://twitter.com/freaky_future" alt="" title="" target="_blank">
-                <img src="img/header/twitter.jpg" title="Freaky Future - Discord" alt="Freaky Future - Twitter" class="w80px"> 
+                <img width="100" height="76" src="img/header/twitter.jpg" title="Freaky Future - Discord" alt="Freaky Future - Twitter" class="w80px"> 
             </a>
         </div>
     </div>

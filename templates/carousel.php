@@ -19,7 +19,7 @@ $nft = array(
         foreach($nft as $n){
             ?>
                 <div class="carousel-cell">
-                    <img src="img/carousel/<?php echo $n;?>" alt="NFTs Freaky Future" title="NFTs Freaky Future">
+                    <img width="400" height="493" src="img/carousel/<?php echo $n;?>" alt="NFTs Freaky Future" title="NFTs Freaky Future">
                 </div>
             <?php
         }
