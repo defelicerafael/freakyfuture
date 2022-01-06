@@ -20,7 +20,7 @@ header("Content-Type: text/html;charset=utf-8");
         <link rel="stylesheet" type="text/css" href="css/carousel.css" media="all">
 
         <!-- META DESCRIPTION -->
-        <meta name="description" content="taxmotor">
+        <meta name="description" content="Freaky Future">
         
         <meta property="og:url"           content="https://freakyfuture.com" />
         <meta property="og:type"          content="website" />
