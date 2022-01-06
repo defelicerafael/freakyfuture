@@ -6,7 +6,7 @@ header("Content-Type: text/html;charset=utf-8");
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Freaky Future - A DYSTOPIC INMERSIVE EXPERIENCE</title>
+        <title>Freaky Future - A DYSTOPIC INMMERSIVE EXPERIENCE</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +25,7 @@ header("Content-Type: text/html;charset=utf-8");
         <meta property="og:url"           content="https://freakyfuture.com" />
         <meta property="og:type"          content="website" />
         <meta property="og:title"         content="Freaky Future" />
-        <meta property="og:description"   content="A DYSTOPIC INMERSIVE EXPERIENCE" />
+        <meta property="og:description"   content="A DYSTOPIC INMMERSIVE EXPERIENCE" />
         <meta property="og:image"         content="img/footer/logosolo.png" />
     </head>
     <body>
